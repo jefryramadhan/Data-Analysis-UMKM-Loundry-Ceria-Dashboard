@@ -20,7 +20,7 @@ Proyek ini dikerjakan melalui beberapa tahapan utama:
 1. **Data Preparation:** Menyalin data transaksi yang sebelumnya manual diubah ke Excel.
 2. **Data Cleaning:** Membersihkan data seperti inkonsistensi nama, dan format yang salah menggunakan rumus `TRIM`, `Find & Replace`, dan `Filter`.
 3. **Data Analysis:** Menganalisis data menggunakan PivotTable untuk mengetahui pola dan tren penjualan.
-4. **Data Visualization:** Membangun dashboard interaktif menggunakan PivotTable dan slicer untuk visualisasi data.
+4. **Data Visualization:** Membangun dashboard interaktif menggunakan PivotTable untuk visualisasi data.
 5. **Dashboard Intreaktif:** <a href=https://github.com/jefryramadhan/Data-Analysis-UMKM-Loundry-Ceria-Dashboard/blob/main/Dashboard%20Loundry%20Kos%20Ceria1.png>Lihat Dashboard</a>
 
 ## Insight 
